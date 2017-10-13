@@ -315,11 +315,11 @@ iframe {
 	line-height: 125px;
 }
 .icon-header a {
-	color: #c6c6c6;
+	color: #ffffff;
 	padding: 10px;
 }
 .icon-header a:hover {
-	color: #e52233;
+	color: #04A64A;
 }
 /*................................................................... Header Desktop .../
 
@@ -753,7 +753,7 @@ iframe {
 /*=================================================================== Banner ===*/
 
 .parallax-banner{
-	background-image: url("../images/banner-home-page-01.jpg");
+	background-image: url("../images/prova.jpg");
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
@@ -805,7 +805,7 @@ iframe {
 .line-symbol-banner{
 	position: absolute;
 	height: 1px;
-	background-color: #e52233;
+	background-color: #e4e4e4;
 	-webkit-transition: all 0.4s;
     -o-transition: all 0.4s;
     -moz-transition: all 0.4s;
@@ -1454,7 +1454,7 @@ footer ul li a:hover {
 /*[ Banner ]
 ===========================================================*/
 .parallax-banner-3 {
-	background-image: url("../images/banner-menu-page-01.jpg");
+	background-image: url("../images/banner-menu-page-011.jpg");
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
