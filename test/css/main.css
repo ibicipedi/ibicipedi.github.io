@@ -445,11 +445,11 @@ iframe {
 
 /*=================================================================== Slider ===*/
 .uranus .tp-bullet.selected, .uranus .tp-bullet:hover {
-    box-shadow: 0 0 0 1px #04A64A;
-    -moz-box-shadow: 0 0 0 1px #04A64A;
-    -webkit-box-shadow: 0 0 0 1px #04A64A;
-    -o-box-shadow: 0 0 0 1px #04A64A;
-    -ms-box-shadow: 0 0 0 1px #04A64A;
+    box-shadow: 0 0 0 1px #d2d2d2;
+    -moz-box-shadow: 0 0 0 1px #d2d2d2;
+    -webkit-box-shadow: 0 0 0 1px #d2d2d2;
+    -o-box-shadow: 0 0 0 1px #d2d2d2;
+    -ms-box-shadow: 0 0 0 1px #d2d2d2;
     transform: scale(1.5);
     -webkit-transform: scale(1.5);
 
@@ -458,13 +458,13 @@ iframe {
 .uranus .tp-bullet.selected .tp-bullet-inner, .uranus .tp-bullet:hover .tp-bullet-inner {
     transform: scale(0.6);
     -webkit-transform: scale(0.6);
-    background-color: #04A64A;
+    background-color: #d2d2d2;
 }
 
 .uranus .tp-bullet {
 	width: 10px;
 	height: 10px;
-    background-color: #04A64A;
+    background-color: #d2d2d2;
 }
 #slider-deli .caption-1 {
 	font-family: PlayfairDisplay-Bold;
