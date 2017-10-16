@@ -2943,7 +2943,7 @@ background-color: #999999;
 /*=================================================================== Main post ===*/
 .list-blog-detail li::before {
 	content: "\25AA"; 
-	color: red;
+	color: #04A64A;
 	margin-right: 5px;
 }
 
