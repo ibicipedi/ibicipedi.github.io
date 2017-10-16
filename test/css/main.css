@@ -532,6 +532,45 @@ iframe {
 	color: white;
 }
 
+.btn3 {
+	display: inline-block;
+	width: 170px !important;
+	height: 50px !important;
+	margin: 0px;
+	border: 2px solid #04A64A;
+	line-height: 46px !important;
+	text-align: center;
+	font-size: 14px !important;
+	text-decoration: none;
+	font-family: OpenSans !important;
+	-webkit-transition: transform 0.4s !important;
+    -o-transition: transform 0.4s !important;
+    -moz-transition: transform 0.4s !important;
+    transition: transform 0.4s !important;
+}
+.btn3{
+	background-color: #ffffff;
+	color: white;
+	text-decoration: none;
+	font-weight: normal;
+}
+.btn3 {
+	color: #04A64A;
+	text-decoration: none;
+	font-weight: normal;
+}
+.btn3:hover{
+	transform: scale(1.05);
+	text-decoration: none;
+	color: #04A64A;
+}
+
+.btn3:hover{
+	transform: scale(1.05);
+	text-decoration: none;
+	color: #04A64A;
+}
+
 /*................................................................... Slider ...*/
 
 
