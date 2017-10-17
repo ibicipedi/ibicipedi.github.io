@@ -688,6 +688,13 @@ iframe {
     -moz-transition: all 0.3s;
     transition: all 0.3s;
 }
+
+a {
+    color: #666666;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
 .img-list-food img:hover {
 	transform: translate(0,-4px);
 	box-shadow: 3px 4px 10px -5px #505050;
@@ -704,7 +711,7 @@ iframe {
 }
 .hover-link-color:hover{
 	text-decoration: none;
-	color: #e52233;
+	color: #04A64A;
 }
 .line-food{
 	border-bottom: 1px solid #c9c9c9;
@@ -1567,6 +1574,10 @@ footer ul li a:hover {
 .bg-menu-page-02 {
 	background-image: url('../images/img-title-menu-page-02.jpg');
 }
+.bg-menu-page-022 {
+	background-image: url('../images/img-title-menu-page-022.jpg');
+}
+
 .content-menu-02 .hover-img {
 	display: block;
 	margin-bottom: 30px;
