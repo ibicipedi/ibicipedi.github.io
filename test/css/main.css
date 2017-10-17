@@ -1574,6 +1574,11 @@ footer ul li a:hover {
 .bg-menu-page-02 {
 	background-image: url('../images/img-title-menu-page-02.jpg');
 }
+
+.bg-menu-page-03 {
+	background-image: url('../images/diario.jpg');
+}
+
 .bg-menu-page-022 {
 	background-image: url('../images/img-title-menu-page-022.jpg');
 }
