@@ -64,7 +64,7 @@ a{
 }
 a:hover {
 	text-decoration: none;
-	color: #e52233;
+	color: #04A64A;
 }
 p {
 	font-family: OpenSans;
@@ -145,7 +145,7 @@ iframe {
 }
 .btn-with-bg:hover {
 	cursor: pointer;
-	background-color: #c60b1b;
+	background-color: #04A64A;
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////// Index /*/
@@ -1055,7 +1055,7 @@ a {
 }
 .btn-find-table:hover {
 	cursor: pointer;
-	background-color: #c60b1b;
+	background-color: #04A64A;
 }
 .input-find{
 	margin-right: -30px !important;
@@ -1453,7 +1453,7 @@ footer ul li a:hover {
 }
 .btn-banner-vertical-page div:hover {
 	cursor: pointer;
-	background-color: #c60b1b;
+	background-color: #04A64A;
 }
 .for-vertical-page:hover .content-banner {
 	padding-top: 150px;
