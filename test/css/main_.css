@@ -64,7 +64,7 @@ a{
 }
 a:hover {
 	text-decoration: none;
-	color: #04A64A;
+	color: #e52233;
 }
 p {
 	font-family: OpenSans;
@@ -135,7 +135,7 @@ iframe {
 	text-decoration: none;
 	font-family: OpenSans;
 	text-transform: uppercase;
-	background-color: #04A64A;
+	background-color: #e52233;
 	color: white;
 	border: none;
 	-webkit-transition: all 0.4s;
@@ -145,7 +145,7 @@ iframe {
 }
 .btn-with-bg:hover {
 	cursor: pointer;
-	background-color: #04A64A;
+	background-color: #c60b1b;
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////// Index /*/
@@ -234,17 +234,17 @@ iframe {
 	font-size: 14px;
 	text-transform: uppercase;
 	line-height: 5;
-	color: #ffffff;
+	color: #c6c6c6;
 	padding: 5px;
 }
 
 .main_menu>li:hover > a{
- 	color: #04A64A;
+ 	color: #e52233;
  	text-decoration: none;
 }
 
 .sub_menu>li:hover > a{
- 	color: #04A64A;
+ 	color: #e52233;
  	text-decoration: none;
 }
 /* .main_menu>li:hover span{border-left: 5px solid #e52233; transform: rotate(90deg);} */
@@ -315,11 +315,11 @@ iframe {
 	line-height: 125px;
 }
 .icon-header a {
-	color: #ffffff;
+	color: #c6c6c6;
 	padding: 10px;
 }
 .icon-header a:hover {
-	color: #04A64A;
+	color: #e52233;
 }
 /*................................................................... Header Desktop .../
 
@@ -410,7 +410,7 @@ iframe {
     transition: all 0.4s !important;
 }
 .side-menu .main-menu .arrow-main-menu:hover {
-	color: #04A64A;
+	color: #e52233;
 	cursor: pointer;
 }
 .turn-arrow{transform: rotate(90deg);}
@@ -430,7 +430,7 @@ iframe {
 
 .side-menu a:hover {
 	text-decoration: none;
-	color: #04A64A;
+	color: #e52233;
 }
 .side-menu .sub-menu {
 	display: none;
@@ -445,11 +445,11 @@ iframe {
 
 /*=================================================================== Slider ===*/
 .uranus .tp-bullet.selected, .uranus .tp-bullet:hover {
-    box-shadow: 0 0 0 1px #d2d2d2;
-    -moz-box-shadow: 0 0 0 1px #d2d2d2;
-    -webkit-box-shadow: 0 0 0 1px #d2d2d2;
-    -o-box-shadow: 0 0 0 1px #d2d2d2;
-    -ms-box-shadow: 0 0 0 1px #d2d2d2;
+    box-shadow: 0 0 0 1px #e52233;
+    -moz-box-shadow: 0 0 0 1px #e52233;
+    -webkit-box-shadow: 0 0 0 1px #e52233;
+    -o-box-shadow: 0 0 0 1px #e52233;
+    -ms-box-shadow: 0 0 0 1px #e52233;
     transform: scale(1.5);
     -webkit-transform: scale(1.5);
 
@@ -458,18 +458,18 @@ iframe {
 .uranus .tp-bullet.selected .tp-bullet-inner, .uranus .tp-bullet:hover .tp-bullet-inner {
     transform: scale(0.6);
     -webkit-transform: scale(0.6);
-    background-color: #d2d2d2;
+    background-color: #e52233;
 }
 
 .uranus .tp-bullet {
 	width: 10px;
 	height: 10px;
-    background-color: #d2d2d2;
+    background-color: #e52233;
 }
 #slider-deli .caption-1 {
 	font-family: PlayfairDisplay-Bold;
 	font-size: 110px;
-	color: #e6e6e6;
+	color: white;
 	line-height: 1.5;
 	white-space: normal;
 	text-align: center !important;
@@ -478,7 +478,7 @@ iframe {
 
 #slider-deli .caption-2 {
 	font-size: 20px;
-	color: #e6e6e6;
+	color: #eaeaea;
 	line-height: 1.5;
 	white-space: normal;
 	text-align: center !important;
@@ -498,7 +498,7 @@ iframe {
 	width: 170px !important;
 	height: 50px !important;
 	margin: 10px;
-	border: 2px solid #04A64A;
+	border: 2px solid #e52233;
 	line-height: 46px !important;
 	text-align: center;
 	font-size: 14px !important;
@@ -510,65 +510,26 @@ iframe {
     transition: transform 0.4s !important;
 }
 .btn2{
-	background-color: #04A64A;
+	background-color: #e52233;
 	color: white;
 	text-decoration: none;
 	font-weight: normal;
 }
 .btn1 {
-	color: #04A64A;
+	color: #e52233;
 	text-decoration: none;
 	font-weight: normal;
 }
 .btn1:hover{
 	transform: scale(1.05);
 	text-decoration: none;
-	color: #04A64A;
+	color: #e52233;
 }
 
 .btn2:hover{
 	transform: scale(1.05);
 	text-decoration: none;
 	color: white;
-}
-
-.btn3 {
-	display: inline-block;
-	width: 170px !important;
-	height: 50px !important;
-	margin: 0px;
-	border: 2px solid #04A64A;
-	line-height: 46px !important;
-	text-align: center;
-	font-size: 14px !important;
-	text-decoration: none;
-	font-family: OpenSans !important;
-	-webkit-transition: transform 0.4s !important;
-    -o-transition: transform 0.4s !important;
-    -moz-transition: transform 0.4s !important;
-    transition: transform 0.4s !important;
-}
-.btn3{
-	background-color: #ffffff;
-	color: white;
-	text-decoration: none;
-	font-weight: normal;
-}
-.btn3 {
-	color: #04A64A;
-	text-decoration: none;
-	font-weight: normal;
-}
-.btn3:hover{
-	transform: scale(1.05);
-	text-decoration: none;
-	color: #04A64A;
-}
-
-.btn3:hover{
-	transform: scale(1.05);
-	text-decoration: none;
-	color: #04A64A;
 }
 
 /*................................................................... Slider ...*/
@@ -616,7 +577,7 @@ iframe {
 .nav-tabs .nav-link.active {
     background-color: transparent;
     border-color: transparent;
-    color: #04A64A !important;
+    color: #e52233 !important;
 }
 .nav-tabs {
     border-bottom: none;
@@ -638,7 +599,7 @@ iframe {
 	list-style-type: none;
 	text-align: center;
 }
-#food-menu a:hover{text-decoration: none; color: #04A64A;}
+#food-menu a:hover{text-decoration: none; color: #e52233;}
 #food-menu a{
 	padding-left: 16px;
 	padding-right: 17px;
@@ -688,13 +649,6 @@ iframe {
     -moz-transition: all 0.3s;
     transition: all 0.3s;
 }
-
-a {
-    color: #666666;
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
-}
 .img-list-food img:hover {
 	transform: translate(0,-4px);
 	box-shadow: 3px 4px 10px -5px #505050;
@@ -711,7 +665,7 @@ a {
 }
 .hover-link-color:hover{
 	text-decoration: none;
-	color: #04A64A;
+	color: #e52233;
 }
 .line-food{
 	border-bottom: 1px solid #c9c9c9;
@@ -765,14 +719,14 @@ a {
 }
 @keyframes nameRun {
 	0% {color: #333333;}
-	15% {color: #;04A64A}
-	100% {color: #04A64A;}
+	15% {color: #e52233;}
+	100% {color: #e52233;}
 }
 @keyframes priceRun {
 	0% {color: #333333;}
 	60% {color: #333333;}
-	80% {color: #04A64A;}
-	100% {color: #04A64A;}
+	80% {color: #e52233;}
+	100% {color: #e52233;}
 }
 .line-food {
 	position: relative;
@@ -784,7 +738,7 @@ a {
 	position: absolute;
 	left: 0;
 	bottom: -1px;
-	background-color: #04A64A;
+	background-color: #e52233;
 	animation: lineRun 1s linear 1;
 }
 .name-run>a {
@@ -799,7 +753,7 @@ a {
 /*=================================================================== Banner ===*/
 
 .parallax-banner{
-	background-image: url("../images/prova.jpg");
+	background-image: url("../images/banner-home-page-01.jpg");
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
@@ -851,7 +805,7 @@ a {
 .line-symbol-banner{
 	position: absolute;
 	height: 1px;
-	background-color: #e4e4e4;
+	background-color: #e52233;
 	-webkit-transition: all 0.4s;
     -o-transition: all 0.4s;
     -moz-transition: all 0.4s;
@@ -1005,7 +959,7 @@ a {
 /*=================================================================== Reservation ===*/
 
 .parallax-banner-2 {
-	background-image: url("../images/banner2.jpg");
+	background-image: url("../images/banner-home-page-02.jpg");
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1045,7 +999,7 @@ a {
 	font-size: 14px;
 	text-decoration: none;
 	font-family: OpenSans;
-	background-color: #04A64A;
+	background-color: #e52233;
 	color: white;
 	border: none;
 	-webkit-transition: all 0.4s;
@@ -1055,7 +1009,7 @@ a {
 }
 .btn-find-table:hover {
 	cursor: pointer;
-	background-color: #04A64A;
+	background-color: #c60b1b;
 }
 .input-find{
 	margin-right: -30px !important;
@@ -1077,7 +1031,7 @@ a {
 	color: #666666 !important;
 }
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
-  background-color: #04A64A;
+  background-color: #e52233;
   color: white; 
   /* outline: none; */
   outline-color: #333333;
@@ -1088,7 +1042,7 @@ a {
 	color: #666666 !important;
 }
 td.active {
-	background-color: #04A64A !important;
+	background-color: #e52233 !important;
 }
 .select2-container--default .select2-selection--single {
 	padding-top: 10px;
@@ -1185,7 +1139,7 @@ footer ul li a {
 }
 footer ul li a:hover {
 	text-decoration: none; 
-	color: #04A64A;
+	color: #e52233;
 }
 .content-footer {
 	padding-top: 100px;
@@ -1442,7 +1396,7 @@ footer ul li a:hover {
 	text-decoration: none;
 	font-family: OpenSans;
 	text-transform: uppercase;
-	background-color: #04A64A;
+	background-color: #e52233;
 	color: white;
 	border: none;
 	margin: auto;
@@ -1453,7 +1407,7 @@ footer ul li a:hover {
 }
 .btn-banner-vertical-page div:hover {
 	cursor: pointer;
-	background-color: #04A64A;
+	background-color: #c60b1b;
 }
 .for-vertical-page:hover .content-banner {
 	padding-top: 150px;
@@ -1471,8 +1425,8 @@ footer ul li a:hover {
     transition: all 0.4s;
 }
 .read-more-event:hover {
-	text-decoration-color: #04A64A !important;
-	color: #04A64A !important;
+	text-decoration-color: #e52233 !important;
+	color: #e52233 !important;
 }
 
 /*------------------------------------------------------------------- Footer ---*/
@@ -1500,7 +1454,7 @@ footer ul li a:hover {
 /*[ Banner ]
 ===========================================================*/
 .parallax-banner-3 {
-	background-image: url("../images/banner-menu-page-011.jpg");
+	background-image: url("../images/banner-menu-page-01.jpg");
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1541,14 +1495,14 @@ footer ul li a:hover {
 	text-transform: uppercase;
 	font-size: 14px;
 	line-height: 2.2;
-	color: #ffffff;
+	color: #c6c6c6;
 	margin-top: 18px;
 	margin-bottom: 0px;
 }
 /*===================================================================  ===*/
 
 .bg-menu-page-01 {
-	background-image: url('../images/contattaci.jpg');
+	background-image: url('../images/img-title-menu-page.jpg');
 }
 
 .our-menu.for-menu-page .title-our-menu {
@@ -1574,27 +1528,6 @@ footer ul li a:hover {
 .bg-menu-page-02 {
 	background-image: url('../images/img-title-menu-page-02.jpg');
 }
-
-.bg-menu-page-03 {
-	background-image: url('../images/diario.jpg');
-}
-
-.bg-menu-page-04 {
-	background-image: url('../images/costruzione.jpg');
-}
-
-.bg-menu-page-05 {
-	background-image: url('../images/diario1.jpg');
-}
-
-.bg-menu-page-022 {
-	background-image: url('../images/img-title-menu-page-022.jpg');
-}
-
-.bg-menu-page-0222 {
-	background-image: url('../images/img-title-menu-page-0222.jpg');
-}
-
 .content-menu-02 .hover-img {
 	display: block;
 	margin-bottom: 30px;
@@ -1623,7 +1556,7 @@ footer ul li a:hover {
 }
 
 .content-menu-02 .hover-img:hover .text-in-img-menu-02{
-	background-color: #04A64A ;
+	background-color: #e52233 ;
 	opacity: 0.5;
 }
 
@@ -1811,7 +1744,7 @@ footer ul li a:hover {
 }
 .content-contact-us ul li a:hover {
 	text-decoration: none; 
-	color: #04A64A;
+	color: #e52233;
 }
 
 .follow-us a {
@@ -1983,7 +1916,7 @@ footer ul li a:hover {
 .content-shop-page .bottom-shop-list span:hover {
 	cursor: pointer;
 	color: white;
-	background-color: #04A64A;
+	background-color: #e9858e;
 }
 
 /* .content-shop-page .bottom-shop-list span:first-child {
@@ -2069,7 +2002,7 @@ footer ul li a:hover {
 	bottom: 0px;
 }
 .content-shop-page .item-shop-page a:hover .name-item {
-	color: #04A64A;
+	color: #e52233;
 }
 
 
@@ -2284,7 +2217,7 @@ background-color: #999999;
 .btn-add-to-cart-product.btn-with-bg {
 	width: 156px;
 	display: inline-block;
-	border: 1px solid #04A64A;
+	border: 1px solid #e52233;
 	margin-left: 14px;
 }
 
@@ -2305,7 +2238,7 @@ background-color: #999999;
 }
 .show-content-info-product:hover {
 	cursor: pointer;
-	color: #04A64A;
+	color: #e52233;
 }
 
 @media (max-width: 768px) {
@@ -2443,7 +2376,7 @@ background-color: #999999;
 }
 .table-shopping-cart .btn-remove-product:hover {
 	cursor: pointer;
-	color: #04A64A;
+	color: #e52233;
 }
 
 /*===================================================================  ===*/
@@ -2618,8 +2551,8 @@ background-color: #999999;
 	height: 53px;
 	line-height: 48px !important;
 	background-color: white;
-	color: #04A64A;
-	border: 2px solid #04A64A;
+	color: #e52233;
+	border: 2px solid #e52233;
 	margin-bottom: 5px;
 }
 .wrap-btn-login {
@@ -2814,7 +2747,7 @@ background-color: #999999;
 	opacity: 1;
 	transform: scale(1.2);
 	cursor: pointer;
-	border: 2px solid #04A64A;
+	border: 2px solid #e52233;
 }
 
 .wrap-payment .btn-with-bg {
@@ -3010,7 +2943,7 @@ background-color: #999999;
 /*=================================================================== Main post ===*/
 .list-blog-detail li::before {
 	content: "\25AA"; 
-	color: #04A64A;
+	color: red;
 	margin-right: 5px;
 }
 
@@ -3051,7 +2984,7 @@ background-color: #999999;
 /*=================================================================== Comment ===*/
 
 .comment-blog-detail {
-	border-top: 1px solid #ffffff;
+	border-top: 1px solid #e1e1e1;
 	border-bottom: 1px solid #e1e1e1;
 	padding-top: 35px;
 	padding-bottom: 10px;
@@ -3208,7 +3141,7 @@ background-color: #999999;
 }
 
 #wrap_header_boxed .main_menu > li:hover > a {
-	color: #04A64A;	
+	color: #e52233;	
 }
 
 @media (max-width: 1100px){
@@ -3290,7 +3223,7 @@ background-color: #999999;
 
 .footer-home-boxed ul li a:hover {
 	text-decoration: none; 
-	color: #04A64A;
+	color: #e52233;
 }
 
 
@@ -3312,12 +3245,12 @@ background-color: #999999;
 /*///////////////////////////////////////////////////////////////////////////////////// Home Onepage /*/
 
 .wrap-home-onepage {
-	border: 10px solid #04A64A;
+	border: 10px solid #e52233;
 }
 
 @media (max-width: 576px) {
 	.wrap-home-onepage {
-		border: 5px solid #04A64A;
+		border: 5px solid #e52233;
 	}
 }
 
@@ -3385,7 +3318,7 @@ background-color: #999999;
 }
 
 .home-onepage-menu-bar a:hover {
-	color: #04A64A;
+	color: #e52233;
 }
 
 
@@ -3419,11 +3352,11 @@ background-color: #999999;
 }
 
 .home-onepage-menu-bar-top a:hover {
-	color: #04A64A;
+	color: #e52233;
 }
 
 .active-menu-bar {
-	color: #04A64A !important;
+	color: #e52233 !important;
 }
 
 @media (max-width: 992px) {
@@ -3521,7 +3454,7 @@ background-color: #999999;
 }
 
 .home-onepage-event .content-event p {
-	color: #04A64A;
+	color: #c6c6c6;
 	padding-bottom: 15px;
 }
 
@@ -3747,7 +3680,7 @@ background-color: #999999;
 }
 
 .restyle-home-showcase .icon-header a:hover {
-    color: #04A64A;
+    color: #e52233;
 }
 
 
@@ -3884,7 +3817,7 @@ background-color: #999999;
 	height: 48px;
 	opacity: 0.8;
 	cursor: pointer;
-	background-color: #04A64A;
+	background-color: #e52233;
 }
 
 @media (max-width: 576px) {
